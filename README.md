@@ -1,4 +1,4 @@
-# Nilearn/nistats pipelines for task-based functional connectivity analysis
+# Nilearn/Nistats pipelines for task-based functional connectivity analysis
 Building a pipeline and tutorial for task fMRI analysis from nistats to nilearn 
 
 ## Data description
