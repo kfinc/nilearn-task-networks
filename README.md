@@ -1,5 +1,5 @@
 # Nilearn/Nistats pipelines for task-based functional connectivity analysis
-Building a pipeline and tutorial for task fMRI analysis from nistats to nilearn 
+Building a pipeline and tutorial for task fMRI analysis in nistats and functional connectivirt analysis in nilearn 
 
 ## Data description
 Human Connectome Project N-back task fMRI data (N = 35)
