@@ -13,9 +13,9 @@ Within each run, the 4 different image types are presented in separate blocks wi
 Participants listened to blocks of positive and negative music. (2x2 matrix: MDD vs. control; postive vs. negative music) [(Lepping et al. 2016, PLOS ONE)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902194/pdf/pone.0156859.pdf)
 
 ## Pipeline overview
-[Data processing and signal extraction:](https://github.com/kfinc/nilearn_task_networks/blob/master/glm_hcp.ipynb)
+[Data processing and signal extraction](https://github.com/kfinc/nilearn_task_networks/blob/master/glm_hcp.ipynb)
 
-[Peak ROI connectivity analysis for HCP](https://github.com/kfinc/nilearn_task_networks/blob/master/nilearn_HCP_pipeline.ipynb)
+[Whole brain connectivity analysis for HCP](https://github.com/kfinc/nilearn_task_networks/blob/master/nilearn_HCP_pipeline.ipynb)
 
 [Peak ROI connectivity analysis for emotional music](https://github.com/kfinc/nilearn_task_networks/blob/master/nistats_task_activations_demo_music_comb_groups.ipynb)
 
