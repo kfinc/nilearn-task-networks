@@ -1,6 +1,6 @@
 import numpy as np
 
-def calculate_lsn_edges (A, labels):
+def calculate_lsn_edges(A, labels):
     """Function calculates number of edges between and within predefined large-scale networks (LSNs).
     The function takes binary symetrical adjacency matrix, module assignment of each ROI and calculate number of edges between and within each
     large-scale network.
